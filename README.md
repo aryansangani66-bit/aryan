@@ -1,4 +1,6 @@
-# aryan
+# PYTHON_PROJECT
+#STUDENT GRADE CALCULATOR
+#FEATURES
 python_project
 Student Grade Calculator
 Features
